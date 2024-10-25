@@ -5,7 +5,9 @@
 - Tableau Public Dashboard: [link_to_your_dashboard]
 
 ## Background and Overview
-This project analyzes the impact of Kindle Unlimited and Best Seller tags on reader engagement in the Kindle e-book market from 2019 to 2023. With a focus on understanding consumer behavior and preferences, this analysis leverages publicly available data to assess trends in reviews and ratings associated with various tagging categories. The insights gained aim to inform strategies for enhancing reader engagement and improving the selection of titles available through Kindle Unlimited. For the sake of this presentation, Kindle Unlimited will be represented as a tagging category, despite its actual status as a subscription service. This approach allows for a more straightforward comparison with Best Seller tags.
+This project analyzes the impact of Kindle Unlimited and Best Seller tags on reader engagement in the Kindle e-book market from 2019 to 2023. With a focus on understanding consumer behavior and preferences, this analysis leverages publicly available data to assess trends in reviews and ratings associated with various tagging categories. The insights gained aim to inform strategies for enhancing reader engagement and improving the selection of titles available through Kindle Unlimited. 
+
+For the sake of this presentation, Kindle Unlimited will be represented as a tagging category, despite its actual status as a subscription service. This approach allows for a more straightforward comparison with Best Seller tags.
 
 ## Data Structure Overview
 The dataset used for this analysis contains information on over 130,000 Kindle e-books sourced from Kaggle. It includes the following attributes:
