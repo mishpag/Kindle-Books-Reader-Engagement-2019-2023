@@ -28,12 +28,12 @@ This analysis reveals that books tagged in the "Other" category outperform those
 ### Key Insights
 1. **Engagement Metrics:** The "Other" category consistently outperforms Kindle Unlimited and Best Seller categories in review counts, indicating that these titles resonate more with readers.
 2. **Trend Analysis:** Over the years, the Kindle Unlimited category shows gradual growth in reviews but remains lower than the "Other" category. This suggests that while engagement is growing, there is still significant room for improvement.
-3. **Reader Expectations:** The absence of major bestsellers in Kindle Unlimited shapes reader expectations, potentially leading to reduced engagement. Higher engagement in the "Other" tag category highlights the importance of balancing popular and diverse selections to enhance user value.
+3. **Reader Expectations:** The absence of high-profile book titles in Kindle Unlimited shapes reader expectations, potentially leading to reduced engagement. Higher engagement in the "Other" tag category highlights the importance of balancing popular and diverse selections to enhance user value.
 4. **Outliers with Averages:** High averages can be misleading; they may be driven by a few highly rated titles rather than widespread popularity across the entire category.
 
 ## Limitations and Gaps in Analysis
 While this analysis provides valuable insights into reader engagement concerning Kindle Unlimited and Best Seller tags, several limitations and gaps warrant consideration:
-1. **Lack of High-Profile Titles in Kindle Unlimited:** Explore how the absence of popular, high-profile titles affects reader expectations and engagement.
+1. **Lack of High-Profile Book Titles in Kindle Unlimited:** Explore how the absence of popular, high-profile book titles affects reader expectations and engagement.
 2. **Limited Data on Reader Preferences:** There is a need for deeper exploration of how different genres impact reader engagement. This analysis focuses on reviews and ratings but lacks qualitative data on reader motivations and preferences—essentially, why readers choose certain books.
 3. **Diversity of Titles in the "Other" Category:** There is a need to analyze the specific types of books within the "Other" category. Understanding what genres or themes resonate with readers can help shape future recommendations.
 4. **Comparative Analysis with Competing Platforms:** Comparative data with other platforms (like Audible or traditional publishing) could provide a fuller picture of the market dynamics and how Kindle Unlimited stacks up against competitors.
