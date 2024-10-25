@@ -1,8 +1,8 @@
 # Assessing the Influence of Kindle Unlimited and Best Seller Tags on Reader Engagement (2019-2023)
 
 ## Links
-- PowerPoint Presentation: [Assessing the Influence of Kindle Unlimited and Best Seller Tags on Reader Engagement](https://docs.google.com/presentation/d/1csdf5P3a28ffYUd5iM2mUeQD6E-zvhxq6cuCGDUFg1A/edit?usp=sharing)
-- Tableau Public Dashboard: [link_to_your_dashboard]
+- 📊 **PowerPoint Presentation:** [Assessing the Influence of Kindle Unlimited and Best Seller Tags on Reader Engagement](https://docs.google.com/presentation/d/1csdf5P3a28ffYUd5iM2mUeQD6E-zvhxq6cuCGDUFg1A/edit?usp=sharing)
+- 📈 **Tableau Public Dashboard:** [link_to_your_dashboard]
 
 ## Background and Overview
 This project analyzes the impact of Kindle Unlimited and Best Seller tags on reader engagement in the Kindle e-book market from 2019 to 2023. With a focus on understanding consumer behavior and preferences, this analysis leverages publicly available data to assess trends in reviews and ratings associated with various tagging categories. The insights gained aim to inform strategies for enhancing reader engagement and improving the selection of titles available through Kindle Unlimited. 
